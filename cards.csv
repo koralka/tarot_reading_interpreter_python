@@ -1,0 +1,79 @@
+name,element,meaning_upright,meaning_reversed,arcana,suit
+0 - The Fool,Air,"innocence, new beginnings, free spirit","recklessness, taken advantage of, inconsideration",Major,
+I - The Magician,Air,"willpower, desire, creation, manifestation","trickery, illusions, out of touch",Major,
+II - The High Priestess,Water,"intuitive, unconscious, inner voice","lack of center, lost inner voice, repressed feelings",Major,
+III - The Empress,Earth,"motherhood, fertility, nature","dependence, smothering, emptiness, nosiness",Major,
+IV - The Emperor,Fire,"authority, structure, control, fatherhood","tyranny, rigidity, coldness",Major,
+V - The Hierophant,Earth,"tradition, conformity, morality, ethics","rebellion, subversiveness, new approaches",Major,
+VI - The Lovers,Air,"partnerships, duality, union","loss of balance, one-sidedness, disharmony",Major,
+VII - The Chariot,Water,"direction, control, willpower","lack of control, lack of direction, aggression",Major,
+VIII - Strength,Fire,"inner strength, bravery, compassion, focus","self doubt, weakness, insecurity",Major,
+IX - The Hermit,Earth,"contemplation, search for truth, inner guidance","loneliness, isolation, lost your way",Major,
+X - Wheel of Fortune,Fire,"change, cycles, inevitable fate","no control, clinging to control, bad luck",Major,
+XI - Justice,Air,"cause and effect, clarity, truth","dishonesty, unaccountability, unfairness",Major,
+XII - The Hanged Man,Water,"sacrifice, release, martyrdom","stalling, needless sacrifice, fear of sacrifice",Major,
+XIII -  Death,Water,"end of cycle, beginnings, change, metamorphosis","fear of change, holding on, stagnation, decay",Major,
+XIV - Temperance,Fire,"middle path, patience, finding meaning ","extremes, excess, lack of balance",Major,
+XV - The Devil,Earth,"addiction, materialism, playfulnes","freedom, release, restoring control",Major,
+XVI - The Tower,Fire,"sudden upheaval, broken pride, disaster","disaster avoided, delayed disaster, fear of suffering",Major,
+XVII - The Star,Air,"hope, faith, rejuvenation","faithlessness, discouragement, insecurity",Major,
+XVIII - The Moon,Water,"unconscious, illusions, intuition","confusion, fear, misinterpretation",Major,
+XIX - The Sun,Fire,"joy, success, celebration, positivity","negativity, depression, sadness",Major,
+XX - Judgement,Fire/Water,"reflection, reckoning, awakening","lack of self awareness, doubt, self loathing",Major,
+XXI - The World,Earth,"fulfillment, harmony, completion","incompletion, no closure",Major,
+Ace of Wands,Fire,"creation, willpower, inspiration, desire","lack of energy, lack of passion, boredom",Minor,Wands
+Two of Wands,Fire,"planning, making decisions, leaving home","fear of change, playing safe, bad planning",Minor,Wands
+Three of Wands,Fire,"looking ahead, expansion, rapid growth","obstacles, delays, frustration",Minor,Wands
+Four of Wands,Fire,"community, home, celebration","lack of support, transience, home conflicts",Minor,Wands
+Five of Wands,Fire,"competition, rivalry, conflict","avoiding conflict, respecting differences",Minor,Wands
+Six of Wands,Fire,"victory, success, public reward","excess pride, lack of recognition, punishment",Minor,Wands
+Seven of Wands,Fire,"perseverance, defensive, maintaining control","give up, destroyed confidence, overwhelmed",Minor,Wands
+Eight of Wands,Fire,"rapid action, movement, quick decisions","panic, waiting, slowdown",Minor,Wands
+Nine of Wands,Fire,"resilience, grit, last stand","exhaustion, fatigue, questioning motivations",Minor,Wands
+Ten of Wands,Fire,"accomplishment, responsibility, burden","inability to delegate, overstressed, burnt out",Minor,Wands
+Page of Wands,Fire," exploration, excitement, freedom","lack of direction, procrastination, creating conflict",Minor,Wands
+Knight of Wands,Water/Fire,"action, adventure, fearlessness","anger, impulsiveness, recklessness",Minor,Wands
+Queen of Wands,Water/Fire,"courage, determination, joy","selfishness, jealousy, insecurities",Minor,Wands
+King of Wands,Water/Fire,"big picture, leader, overcoming challenges","impulsive, overbearing, unachievable expectations",Minor,Wands
+Ace of Pentacles,Earth,"opportunity, prosperity, new venture","lost opportunity, missed chance, bad investment",Minor,Pentacles
+Two of Pentacles,Earth,"balancing decisions, priorities, adapting to change","loss of balance, disorganized, overwhelmed",Minor,Pentacles
+Three of Pentacles,Earth,"teamwork, collaboration, building","lack of teamwork, disorganized, group conflict",Minor,Pentacles
+Four of Pentacles,Earth,"conservation, frugality, security","greediness, stinginess, possessiveness",Minor,Pentacles
+Five of Pentacles,Earth,"need, poverty, insecurity","recovery, charity, improvement",Minor,Pentacles
+Six of Pentacles,Earth,"charity, generosity, sharing","strings attached, stinginess, power and domination",Minor,Pentacles
+Seven of Pentacles,Earth,"hard work, perseverance, diligence","work without results, distractions, lack of rewards",Minor,Pentacles
+Eight of Pentacles,Earth,"apprenticeship, passion, high standards","lack of passion, uninspired, no motivation",Minor,Pentacles
+Nine of Pentacles,Earth,"fruits of labor, rewards, luxury","reckless spending, living beyond means, false success",Minor,Pentacles
+Ten of Pentacles,Earth,"legacy, culmination, inheritance","fleeting success, lack of stability, lack of resources",Minor,Pentacles
+Page of Pentacles,Earth,"ambition, desire, diligence","lack of commitment, greediness, laziness",Minor,Pentacles
+Knight of Pentacles,Fire/Earth,"efficiency, hard work, responsibility","laziness, obsessiveness, work without reward",Minor,Pentacles
+Queen of Pentacles,Fire/Earth,"practicality, creature comforts, financial security","self-centeredness, jealousy, smothering",Minor,Pentacles
+King of Pentacles,Fire/Earth,"abundance, prosperity, security","greed, indulgence, sensuality",Minor,Pentacles
+Ace of Cups,Water,"new feelings, spirituality, intuition","emotional loss, blocked creativity, emptiness",Minor,Cups
+Two of Cups,Water,"unity, partnership, connection","imbalance, broken communication, tension",Minor,Cups
+Three of Cups,Water,"friendship, community, happiness","overindulgence, gossip, isolation",Minor,Cups
+Four of Cups,Water,"apathy, contemplation, disconnectedness","sudden awareness, choosing happiness, acceptance",Minor,Cups
+Five of Cups,Water,"loss, grief, self-pity","acceptance, moving on, finding peace",Minor,Cups
+Six of Cups,Water,"familiarity, happy memories, healing","moving forward, leaving home, independence",Minor,Cups
+Seven of Cups,Water,"searching for purpose, choices, daydreaming","lack of purpose, diversion, confusion",Minor,Cups
+Eight of Cups,Water,"walking away, disillusionment, leaving behind","avoidance, fear of change, fear of loss",Minor,Cups
+Nine of Cups,Water,"satisfaction, emotional stability, luxury","lack of inner joy, smugness, dissatisfaction",Minor,Cups
+Ten of Cups,Water,"inner happiness, fulfillment, dreams coming true","shattered dreams, broken family, domestic disharmony",Minor,Cups
+Page of Cups,Water,"happy surprise, dreamer, sensitivity","emotional immaturity, insecurity, disappointment",Minor,Cups
+Knight of Cups,Air/Water,"following the heart, idealist, romantic","moodiness, disappointment",Minor,Cups
+Queen of Cups,Air/Water,"compassion, calm, comfort","martyrdom, insecurity, dependence",Minor,Cups
+King of Cups,Air/Water,"compassion, control, balance","coldness, moodiness, bad advice",Minor,Cups
+Ace of Swords,Air,"breakthrough, clarity, sharp mind","confusion, brutality, chaos",Minor,Swords
+Two of Swords,Air,"difficult choices, indecision, stalemate","lesser of two evils, no right choice, confusion",Minor,Swords
+Three of Swords,Air,"heartbreak, suffering, grief","recovery, forgiveness, moving on",Minor,Swords
+Four of Swords,Air,"rest, restoration, contemplation","restlessness, burnout, stress",Minor,Swords
+Five of Swords,Air,"unbridled ambition, win at all costs, sneakiness","lingering resentment, desire to reconcile, forgiveness",Minor,Swords
+Six of Swords,Air,"transition, leaving behind, moving on","emotional baggage, unresolved issues, resisting transition",Minor,Swords
+Seven of Swords,Air,"deception, trickery, tactics and strategy","coming clean, rethinking approach, deception",Minor,Swords
+Eight of Swords,Air,"imprisonment, entrapment, self-victimization","self acceptance, new perspective, freedom",Minor,Swords
+Nine of Swords,Air,"anxiety, hopelessness, trauma","hope, reaching out, despair",Minor,Swords
+Ten of Swords,Air,"failure, collapse, defeat","can't get worse, only upwards, inevitable end",Minor,Swords
+Page of Swords,Air,"curiosity, restlessness, mental energy","deception, manipulation, all talk",Minor,Swords
+Knight of Swords,Earth/Air,"action, impulsiveness, defending beliefs","no direction, disregard for consequences, unpredictability",Minor,Swords
+Queen of Swords,Earth/Air,"complexity, perceptiveness, clear mindedness","cold hearted, cruel, bitterness",Minor,Swords
+King of Swords,Earth/Air,"head over heart, discipline, truth","manipulative, cruel, weakness",Minor,Swords
